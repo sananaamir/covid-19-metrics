@@ -14,7 +14,7 @@ function CountrySelect(props) {
                 label="Select A Country"
                 inputProps={{
                     name: 'country',
-                    id: 'outlined-country-native-simple',
+                    id: 'outlined-country-native-simple'
                 }}
             >
                 <option value="global">Global</option>
